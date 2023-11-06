@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&family=Pacifico&family=Roboto:wght@100;500&family=Special+Elite&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  font-family: Roboto, Arial, Helvetica, sans-serif
+}
+article{
+  padding: 20px;
+  color: blue;
+}
+table {
+  color: antiquewhite;
+  
+}
+table td {
+  padding: 10px;
+}
+table tr:nth-child(odd) {background-color: grey;}
+
+table tr:nth-child(even) {background-color: rgb(53, 127, 173);}
